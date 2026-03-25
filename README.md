@@ -68,34 +68,6 @@ The complete written report is available inside the `report/` folder as `Project
 
 ---
 
-## 🖼 Screenshots Gallery
-
-> Replace the file names below with your actual screenshot filenames after uploading them to the respective folders.  
-> You can also add Markdown images like: `![GitHub Profile](task-2-portfolio/github-profile.png)`.
-
-### 📌 Task 1 – Infographic
-
-task-1-presentation/Digital Literacy TASK 1.jpeg
-
-### 📌 Task 2 – Portfolio Profiles
-
-task-2-portfolio/Github-profile.png
-task-2-portfolio/Kaggle-profile.png
-task-2-portfolio/Linkedin-profile.png
-
-### 📌 Task 3 – Coding & Forms
-task-3-platforms/HackerRank-certification.png
-task-3-platforms/google-form-quiz.png
-task-3-platforms/google-sheet-responses.png
-
-### 📌 Task 4 – Email & Etiquette
-
-
-### 📌 Task 5 – Cybercrime & Safety
-
-
-
----
 
 ## 🎨 Task 1 – Digital Literacy Infographic
 
