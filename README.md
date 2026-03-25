@@ -75,18 +75,18 @@ The complete written report is available inside the `report/` folder as `Project
 
 ### 📌 Task 1 – Infographic
 
-- `task-1-presentation/infographic-1.png`  
+task-1-presentation/Digital Literacy TASK 1.jpeg
 
 ### 📌 Task 2 – Portfolio Profiles
 
-- `task-2-portfolio/github-profile-1.png`  
+task-2-portfolio/Github-profile.png
+task-2-portfolio/Kaggle-profile.png
+task-2-portfolio/Linkedin-profile.png
 
 ### 📌 Task 3 – Coding & Forms
-
-- `task-3-platforms/hackerrank-dashboard-1.png`  
-- `task-3-platforms/digital-literacy-quiz-form-1.png`  
-- `task-3-platforms/digital-literacy-responses-sheet-1.png`  
-  
+task-3-platforms/HackerRank-certification.png
+task-3-platforms/google-form-quiz.png
+task-3-platforms/google-sheet-responses.png
 
 ### 📌 Task 4 – Email & Etiquette
 
@@ -94,13 +94,6 @@ The complete written report is available inside the `report/` folder as `Project
 ### 📌 Task 5 – Cybercrime & Safety
 
 
-### 📌 Overall Project & GitHub
-
-- `project-overview/repo-home-1.png`  
-- `project-overview/repo-structure-1.png`  
-- `project-overview/report-preview-1.png`  
-- `project-overview/readme-preview-1.png`  
-- `project-overview/digital-ambassador-banner-1.png`  
 
 ---
 
